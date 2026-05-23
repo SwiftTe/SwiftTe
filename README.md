@@ -30,7 +30,7 @@ Full Stack Developer | DevOps Engineer | AI & LLM Enthusiast | ISP Support Techn
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
 </p>
 
 ### Database
